@@ -1,9 +1,7 @@
 # TravelTide-Project
 
-*Everything can be accessed through the provided Google Drive link:
-	https://drive.google.com/drive/folders/1g9bcDMxlOFqYhGKbjABC4_y9GlV5lAUE?usp=drive_link 
-**For the Python scripts to run, the ‘read_csv()’ path should obviously be changed (relevant csv files 	are attached).
-***This entire project is a product of my work, and my work only.
+*For the Python scripts to run, the ‘read_csv()’ path should obviously be changed (relevant csv files 	are attached).
+**This entire project is a product of my work, and my work only.
 
 Files content:
 	
