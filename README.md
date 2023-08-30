@@ -18,3 +18,6 @@ Files content:
 	Outliers Concern.sql
 	Outliers ploted.py
 	Raw_data.csv
+
+ Tableau link:
+ https://public.tableau.com/app/profile/aviad.lange/viz/TravelTideProject/PerksandUsers
