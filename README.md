@@ -24,3 +24,6 @@ Files content:
 
  Tableau link:
  https://public.tableau.com/app/profile/aviad.lange/viz/TravelTideProject/PerksandUsers
+
+
+'Extra Challanges' holds multiple questions, that share the same DB, but are not part of the big project.
